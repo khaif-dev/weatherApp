@@ -1,0 +1,6 @@
+Tailwind is a mobile first framework.
+- any styling with no prefix is mobile
+- medium screens use the md: prefix
+- large screens use the lg: prefix
+
+
